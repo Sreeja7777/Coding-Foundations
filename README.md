@@ -1,4 +1,3 @@
-# Python-basics
-My Python journey from scratch! 
-# Hi I'm Srija 
-BCA @ MIT-WPU | Python Learner
+# 🐍 MIT-WPU Python Journey 
+**BCA First Year** [![SoloLearn](https://img.shields.io/badge/-SoloLearn-3a464b?style=flat&logo=sololearn&logoColor=white)](https://www.sololearn.com/en/profile/34103356)
+
