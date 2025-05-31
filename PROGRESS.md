@@ -7,7 +7,6 @@
 - ✅ Working With Variables (May 29)
 - ✅ Debugging (May 30)
 - ✅ Standard and Practices of Coding (May 30) 
-- ✅ 
 - ⏳ 
 
 ## Next Goals  
