@@ -7,7 +7,8 @@
 - ✅ Working With Variables (May 29)
 - ✅ Debugging (May 30)
 - ✅ Standard and Practices of Coding (May 30) 
-- ⏳ 
+- ✅ Inputs and Outputs (May 31)
+- ⏳
 
 ## Next Goals  
 - Finish Python Core by June 20  
