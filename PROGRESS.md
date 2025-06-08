@@ -8,7 +8,17 @@
 - ✅ Debugging (May 30)
 - ✅ Standard and Practices of Coding (May 30) 
 - ✅ Inputs and Outputs (May 31)
-- ⏳
+- ✅ Data Types (June 1)
+- ✅ Data Type Checking (June 2 )
+- ✅ Data Conversion (June 3)
+- ✅ Fixing Data Types (June 4)
+- ✅ Comparison Operations (June 5)
+- ✅ Logical Operations (June 6)
+- ✅ Combining Comparison and Logical Operations (June 7)
+- ✅ Control Flow (June 8)
+- ✅ For Loops (June 8)
+- ✅ While Loops (June 8) 
+- ⏳ More on Iteration
 
 ## Next Goals  
 - Finish Python Core by June 20  
