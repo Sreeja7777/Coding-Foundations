@@ -18,23 +18,31 @@
 - ✅ Control Flow (June 8)
 - ✅ For Loops (June 8)
 - ✅ While Loops (June 8) 
-- ✅ 
-- ✅
-- ✅
-- ✅
-- ✅
-- ✅
-- ✅
-- ✅
-- ✅
-- ✅
-- ✅
-- ✅
-- ✅
-- ✅
-- ✅
-- ⏳ More on Iteration
+- ✅ More on Iteration (June 8) 
+- ✅ Condistional Statements (June 8) 
+- ✅ More on Condistional Statements (June 8) 
+- ✅ Lists (June 9) 
+- ✅ Indexing (June 10) 
+- ✅ Using Indexing (June 11) 
+- ✅ Slicing (June 15) 
+- ✅ Using Slicing (June 16) 
+- ✅ Advane Slicing and Indexing (June 18) 
+- ✅ Funcions (June 18) 
+- ✅ Function Arguments (June 21) 
+- ✅ String Function (June 22) 
+- ✅ List Function (June 23) 
+- ✅ Custom Function (June 24) 
+- ✅ More on Custom Functions (June 27) 
+- ✅ Getting Started with HTML (June 28) 
+- ✅ The Core Web Technology (June 30) 
+- ✅ HTML Code (June 30) 
+- ✅ Landing Page Project (July 4)
+- ✅ Headings (July 4) 
+- ✅ Images (July 10)
+- ✅ Landing Page Project (July 13)
+- ✅ Comments (July 14)
+- ✅ Standards and Best Practices (July 14)
+- ✅ Text Formatting (July 14)
+- ✅ Links (August 12)
+- ⏳ Lists
 
-## Next Goals  
-- Finish Python Core by June 20  
-- Build a grade calculator before college starts! 
