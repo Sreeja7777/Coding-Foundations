@@ -1,5 +1,7 @@
 🌟 CODING THINGS! 🌟
 
+https://docs.google.com/document/d/1PydVew5__comCN1sMgK9Xn6JzSBWAFMcTgUtGUX1mQo/edit?tab=t.0
+
 
 Python is widely used to build software and games, analyze data and program Artificial Intelligence. You learned that:
  
