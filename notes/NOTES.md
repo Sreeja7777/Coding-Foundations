@@ -7,6 +7,7 @@ Python is widely used to build software and games, analyze data and program Arti
 🌟 the print() instruction displays a message on the screen
 
 
+
 🌟 Computer programs use variables to remember important information
 🌟 A variable has a name and a value
 🌟 You can create a variable by connecting the name and the value with an equal sign =
@@ -14,6 +15,7 @@ Python is widely used to build software and games, analyze data and program Arti
 🌟 A piece of text is called a string
 🌟 Strings require quotation marks
 🌟 The print() statement is used to send a value to the screen
+
 
 
 🌟 Numerical values can be stored in variables
@@ -41,17 +43,24 @@ Python is widely used to build software and games, analyze data and program Arti
 
 Input and Output in Python:
 
+
 * Communication: Inputs and outputs help machines interact with the external environment.
-  
+
+
 * Input Function: input() allows users to enter values into your program.
+
 
 Example: name = input("Enter your name: ") allows the user to input their name.
 
+
 * Output Function: print() is used to generate outputs from your program.
+
 
 Example: print("Hello, World!") outputs "Hello, World!" to the console.
 
+
 Key Concept: input() for receiving user inputs and print() for producing program outputs are fundamental for interactive Python programs.
+
 
  Float is the data type for numbers with decimal places, they can be positive or negative.
  When you use the + addition operator with string values the two strings are joined together. 
@@ -72,6 +81,7 @@ This is known as concatenation.
 🌟 str(), int(), float() instructions are explicit conversions
 
 
+ 
 🌟 you can use explicit data type conversions to avoid bugs in your programs
 🌟 int() ensures that the user input is treated as an integer number
 🌟 str() can help you concatenate numbers with text
@@ -167,10 +177,12 @@ If you leave out the end_index, like planets[2:], it means:
 🌟 Default values make arguments optional
 
 
-🌟 HTML will allow you to:
+HTML will allow you to:
 Create websites
 Work more effectively with technical teams
 Improve digital marketing skills
+
+
 
 
 ⭐ HTML code controls the structure of a web page
@@ -178,20 +190,21 @@ Improve digital marketing skills
 ⭐ Some examples of HTML tags are <button>, <img>, <table> and <p>
 
 
+ 
 ⭐ Elements like buttons and paragraph text require container tags
 ⭐ Container tags consist of both opening < > and closing </> tags
 ⭐ You can use the Code Playground to write, run and test real HTML code
+
+
 
 
 ⭐ There are many advantages of using headings in your pages
 ⭐ You can use up to 6 levels of headings
 ⭐ Headings require container tags
 
-
 ⭐ Comments make your code easier to read and understand
 ⭐ The <!--...--> tag allows you to add comments to your code
 ⭐ The <br> tag is used to create line breaks
-
 
 ⭐ HTML documents can be organized into head and body
 ​​⭐ The <body> tag ensures compatibility with all browsers
@@ -213,3 +226,4 @@ The source (src) in the image tag points to the server where the image can be fo
 ⭐ Images can be linked or embedded in web pages
 ⭐ Images don’t require closing tags
 ⭐ The source (url) of the image is needed for the image to be found on the internet
+
