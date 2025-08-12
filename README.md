@@ -5,6 +5,7 @@ Learning coding from scratch and building a strong foundation in Python, logic, 
 
 ![MIT-WPU](https://img.shields.io/badge/Studying_at-MIT_WPU-002E6D?style=flat)  
 [![SoloLearn](https://img.shields.io/badge/SoloLearn-3a464b?style=flat&logo=sololearn&logoColor=white)](https://www.sololearn.com/en/profile/34103356)  
+[Notes](notes/NOTES.md)
 
 
 ## 📖 About  
