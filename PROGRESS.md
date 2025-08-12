@@ -18,6 +18,21 @@
 - ✅ Control Flow (June 8)
 - ✅ For Loops (June 8)
 - ✅ While Loops (June 8) 
+- ✅ 
+- ✅
+- ✅
+- ✅
+- ✅
+- ✅
+- ✅
+- ✅
+- ✅
+- ✅
+- ✅
+- ✅
+- ✅
+- ✅
+- ✅
 - ⏳ More on Iteration
 
 ## Next Goals  
